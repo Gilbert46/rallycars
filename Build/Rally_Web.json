@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Rally",
+"productVersion": "0.1",
+"dataUrl": "Rally_Web.data.unityweb",
+"wasmCodeUrl": "Rally_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Rally_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Rally_Web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.10f1"
+}
